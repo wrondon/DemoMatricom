@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Application</string>
+
+    <string name="main">Main</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Demo App</string>
+    <string name="dynamic_xml">Dynamic XML</string>
+    <string name="download_image">Download image</string>
+    <string name="list_view">List View</string>
+    <string name="add">Add</string>
+    <string name="change_text">change text</string>
+    <string name="initial_text">Initial Text</string>
+    <string name="action_test_service">Test Service</string>
+</resources>
